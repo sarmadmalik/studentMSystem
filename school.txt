@@ -1,5 +1,6 @@
 hello sarmad commit 1
 sarmad did commit from github
-2nd commit from gitlocal 
+2nd commit from gitlocal 2
 sarmad did commit from github 2
 why are you not pushing commint MIss
+sarmad have done his work from local repos3 
